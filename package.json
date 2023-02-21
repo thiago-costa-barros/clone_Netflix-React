@@ -1,7 +1,7 @@
 {
   "name": "netflixclone",
   "version": "0.1.0",
-  "homepage": "https://thiago-costa-barros.github.io/clone_Netflix-React/",
+  "homepage": "https://thiago-costa-barros.github.io/clone_Netflix-React",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
