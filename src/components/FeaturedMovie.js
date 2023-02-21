@@ -16,7 +16,10 @@ export default ({ item }) => {
         genres.push(item.genres[i].name);
     }
 
-    var description = item.overview; //(item.overview.length > 200 ? item.overview : item.overview.substring(0, 200) + '...');
+    let description = item?.overview; //(item.overview.length > 200 ? item.overview : item.overview.substring(0, 200) + '...');
+    if (description?.lenght > 200) {
+        description = description.substring(0, 200) + '...'
+    }
 
 
 
