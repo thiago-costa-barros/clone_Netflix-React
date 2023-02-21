@@ -1,4 +1,6 @@
 # Clone do site da Netflix com ReactJS
+![image](https://user-images.githubusercontent.com/114679335/220358073-51c66acf-ad19-4a0e-b2a0-0bb138d8953a.png)<br>
+
 
 Projeto pessoal para portfólio que será aprimorado com o tempo para demonstrar e desenvolver meus conhecimentos.<br><br>
 ## [GitHub Pages](https://thiago-costa-barros.github.io/clone_Netflix-React/)
