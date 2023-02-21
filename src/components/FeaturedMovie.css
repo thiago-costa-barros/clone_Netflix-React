@@ -117,7 +117,7 @@
     }
 }
 
-@media(max-width:414px) {
+@media(max-width:425px) {
     .featured {
         height: 90vh;
     }
