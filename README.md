@@ -1,5 +1,8 @@
 # Clone do site da Netflix com ReactJS
 ![image](https://user-images.githubusercontent.com/114679335/220358073-51c66acf-ad19-4a0e-b2a0-0bb138d8953a.png)<br>
+<b>Responsividade</b><br>
+![image](https://user-images.githubusercontent.com/114679335/220362196-c67bd1ca-6aa2-4df9-8d68-1ab26b44e4fe.png)
+
 
 
 Projeto pessoal para portfólio que será aprimorado com o tempo para demonstrar e desenvolver meus conhecimentos.<br><br>
